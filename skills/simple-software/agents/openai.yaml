@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simple Software"
+  short_description: "Simplify software by cutting the concepts users must hold in their head"
+  default_prompt: "Use $simple-software to simplify this design around the concepts the user actually needs."

@@ -12,6 +12,7 @@ The collection follows the portable Agent Skills format. Skills are tested with 
 - **hackathon**: Turn a rough direction into a winning hackathon project, shaped around a peak demo moment, built by a subagent team, and delivered as a real, rehearsed demo.
 - **humane-minimalism**: Design or refine interfaces in the humane-minimalist tradition, calm typographic surfaces with deep, tactile behavior.
 - **saying-things-simply**: Edit or write prose so it feels simple to the reader, with concrete procedures for cutting, restructuring, and knowing when to stop.
+- **simple-software**: Design or simplify software around the concepts a user must hold in their head, deleting concepts before flows, flows before screens, and accounting for where the complexity goes.
 - **writing-for-audio**: Write and edit prose meant to be heard rather than read, from podcast scripts and narration to spoken essays and talks.
 
 ## License
