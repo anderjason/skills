@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adversarial Review Loop"
+  short_description: "Run cold-start adversarial review loops"
+  default_prompt: "Use $adversarial-review-loop to stress-test this plan with cold-start reviewers and turn their questions into clear decisions."

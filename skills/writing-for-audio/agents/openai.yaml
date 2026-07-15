@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing for Audio"
+  short_description: "Write and edit prose meant to be heard, not read"
+  default_prompt: "Use $writing-for-audio to write or revise this for the ear."

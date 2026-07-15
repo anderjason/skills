@@ -1,0 +1,4 @@
+interface:
+  display_name: "Saying Things Simply"
+  short_description: "Edit or write prose so it feels simple to the reader"
+  default_prompt: "Use $saying-things-simply to make this text feel simple to its reader."

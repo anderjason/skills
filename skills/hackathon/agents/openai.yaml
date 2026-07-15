@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hackathon"
+  short_description: "Shape a rough direction into a winning, real, demo-ready hackathon project"
+  default_prompt: "Use $hackathon to shape this direction into its most compelling buildable form and run the project through to a rehearsed, real demo."
